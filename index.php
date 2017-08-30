@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Chris Corey</title>
+	<title>Chris Corey - DEV BRANCH</title>
 
 	<!-- META -->
 	<meta charset="utf-8">

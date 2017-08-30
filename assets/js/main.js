@@ -88,7 +88,7 @@ function SendEmail() {
 	message = encodeURIComponent(message);
 
 	var ajax = new XMLHttpRequest();
-	ajax.open("POST", "/portfolio/assets/php/contact-email.php", true);
+	ajax.open("POST", "/assets/php/contact-email.php", true);
 	ajax.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
 	ajax.send("name="+name+"&email="+email+"&message="+message);
 

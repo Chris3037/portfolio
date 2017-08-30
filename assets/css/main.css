@@ -47,7 +47,7 @@ nav	{
 	z-index: 1;
 
 	background-color: #3b3b3f;
-	background-image:url(/portfolio/assets/images/footer_lodyas.png);
+	background-image:url(/assets/images/footer_lodyas.png);
 }
 
 nav > a {
@@ -123,7 +123,7 @@ main {
 
 
 #home {
-	background-image:url(/portfolio/assets/images/dark_mosaic.png);
+	background-image:url(/assets/images/dark_mosaic.png);
 }
 
 #home > div > h1 {
@@ -158,19 +158,19 @@ main {
 }
 
 #about {
-	background-image:url(/portfolio/assets/images/dark_wall.png);
+	background-image:url(/assets/images/dark_wall.png);
 }
 
 #experience {
-	background-image:url(/portfolio/assets/images/moulin_@2X.png);
+	background-image:url(/assets/images/moulin_@2X.png);
 }
 
 #portfolio {
-	background-image:url(/portfolio/assets/images/use_your_illusion.png);
+	background-image:url(/assets/images/use_your_illusion.png);
 }
 
 #contact {
-	background-image:url(/portfolio/assets/images/ep_naturalblack.png);
+	background-image:url(/assets/images/ep_naturalblack.png);
 }
 
 
@@ -292,8 +292,8 @@ main {
 	display: none;
 	background-color: #3b3b3f;
 	color: black;
-	/*background-image: url(/portfolio/assets/images/px_by_Gre3g.png);*/
-	background-image: url(/portfolio/assets/images/footer_lodyas.png);
+	/*background-image: url(/assets/images/px_by_Gre3g.png);*/
+	background-image: url(/assets/images/footer_lodyas.png);
 	/*height: 100%;*/
 	/*height: 75%;*/
 	padding: 50px 0;
@@ -337,7 +337,7 @@ main {
 
 
 	#home {
-		/*background-image:url(/portfolio/assets/images/footer_lodyas.png);*/
+		/*background-image:url(/assets/images/footer_lodyas.png);*/
 	}
 
 	#home > div > h1 {;

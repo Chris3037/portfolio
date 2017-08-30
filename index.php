@@ -8,15 +8,15 @@
     <meta name="viewport" content="width=device-width,initial-scale=1">
 
 	<!-- FAVICON -->
-	<link rel="shortcut icon" href="/portfolio/assets/images/favicon.ico">
+	<link rel="shortcut icon" href="/assets/images/favicon.ico">
 
 	<!-- CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-    <link rel="stylesheet" type="text/css" href="/portfolio/assets/css/main.css">
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css">
 
     <!-- JAVASCRIPT -->
 	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-    <script type="text/javascript" src="/portfolio/assets/js/main.js"></script>
+    <script type="text/javascript" src="/assets/js/main.js"></script>
 
 </head>
 <body>
@@ -27,7 +27,7 @@
 
 <div id="email-modal">
 	<button onclick="ToggleEmailModal()">Close</button>
-	<form action="/portfolio/assets/php/main.php" method="post">
+	<form action="/assets/php/main.php" method="post">
 		<ul>
 			<li><p>Name<span style="color: red">*</span></p><input type="text" name="contact-name" required><br></li>
 			<li><p>Email<span style="color: red">*</span></p><input type="email" name="contact-email" required><br></li>
@@ -95,13 +95,13 @@
 
 		<section class="main" id="home">
 			<div class="main-container">
-				<img src="/portfolio/assets/images/headshot.jpg" alt="My Mug">
+				<img src="/assets/images/headshot.jpg" alt="My Mug">
 				<h1>Chris Corey</h1>
 				<h3>Full Stack Web Developer</h3>
 				<div>
-					<a target="_blank" href="https://www.linkedin.com/in/chris-corey-11b78695"><img src="/portfolio/assets/images/linkedin.png" alt="linkedin"></a>
-					<a target="_blank" href="https://github.com/Chris3037"><img src="/portfolio/assets/images/github.png" alt="github"></a>
-					<a target="_blank" href="https://twitter.com/chris_corey_95"><img src="/portfolio/assets/images/twitter.png" alt="twitter"></a>
+					<a target="_blank" href="https://www.linkedin.com/in/chris-corey-11b78695"><img src="/assets/images/linkedin.png" alt="linkedin"></a>
+					<a target="_blank" href="https://github.com/Chris3037"><img src="/assets/images/github.png" alt="github"></a>
+					<a target="_blank" href="https://twitter.com/chris_corey_95"><img src="/assets/images/twitter.png" alt="twitter"></a>
 				</div>
 			</div>
 		</section>

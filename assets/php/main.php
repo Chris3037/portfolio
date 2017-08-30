@@ -40,8 +40,8 @@ function SendEmail() {
 
     session_start();
     $_SESSION['emailSent'] = 1;
-	header("Location: /portfolio#contact");
-	// header("Location: /portfolio");
+	header("Location: /#contact");
+	// header("Location: /");
 }
 
 ?>
